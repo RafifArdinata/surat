@@ -17,7 +17,7 @@ Terlepas dari semua kesalahpahaman yang ada Mau gimana pun dinamika kita sekaran
 
 OHH IYAA, kalau besok-besok kamu lagi ada masalah entah itu urusan sekolah, cowok, atau topik just friend yang bikin pusing-cerita aja ke aku ya. Tapi ya maklum-maklum aja nihh yaa kalau responku berasa kayak ngirim surat pakai burung merpati atoo agak lama. Maklum, namanya juga anak pondok, pegang HP-nya kan mesti nunggu jatah perizinan keluar dulu atau pas mapel Informatika.😂 🤍
 
-“Kalau kata maaf aja rasanya masih belum cukup, web sederhana yang sengaja aku bikin sendiri ini mungkin bisa jadi salah satu bentuk effort kecilku, biar kamu tahu betapa berharganya kamu dan pertemanan kita”
+“Kalau kata maaf aja rasanya masih belum cukup, web sederhana yang sengaja aku bikin sendiri semalam ini mungkin bisa jadi salah satu bentuk effort kecilku, biar kamu tahu betapa berharganya kamu dan pertemanan kita”
 
 Penutup: Pantun bukan sembarang pantun
 Ke pasar bareng Faras dan Walid,

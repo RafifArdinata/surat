@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Smooth scrollbar untuk area surat */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #f1b8c4;
+  border-radius: 10px;
+}
